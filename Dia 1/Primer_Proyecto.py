@@ -1,0 +1,1 @@
+print("El mejor nombre para su producto es \n\""+input("Ingrese el nombre de su producto: ")+" "+input("Ingrese el nombre de algun lugar al que te transporta tu producto: ")+"\"\nFelicitaciones!")
